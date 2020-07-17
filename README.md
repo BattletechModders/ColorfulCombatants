@@ -1,5 +1,5 @@
 # ColorfulCombatants
-### For Versions 1.9.1, with or without ModTek
+### For Version 1.9.1, with or without ModTek
 Random, bold camo patterns for Mercs and Pirates.
 
 ### Instructions:
