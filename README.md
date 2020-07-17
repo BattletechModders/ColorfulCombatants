@@ -17,10 +17,8 @@ StreamingAssets\data\factions
     faction_HostileMercenaries.json - Set heraldry to random
     faction_LocalsBrockwayRefugees.json - Set heraldry to Locals
 
-StreamingAssets\data\heraldry
-
-- All of these change the color pallets and in the random files, adds the Hostile Mercs insignia.
-
+StreamingAssets\data\heraldry - Changes the color pallets and in the random files, adds the Hostile Mercs insignia.
+    
     heraldrydef_pirates.json
     heraldrydef_pirates1.json
     heraldrydef_pirates2.json
